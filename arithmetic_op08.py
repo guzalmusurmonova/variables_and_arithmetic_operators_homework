@@ -4,6 +4,6 @@ a=3
 b=4
 # Create a variable "c"  and assign it the value of the int 2.
 c=2
-# Create a variable called 'answer' and assign it the expression value: a*b:c
-javob=a*b/c
-print(javob)
+# Create a variable called 'answer' and assign it the expression value: a*b:c=a*b/c
+answer=a*b/c
+print(answer)
